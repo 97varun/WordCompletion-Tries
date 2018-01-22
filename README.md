@@ -18,3 +18,5 @@ Install ncurses:
 **Known issues**
 
 Using the mouse generates random characters in the window
+
+**The list of words is taken from here https://github.com/dwyl/english-words/blob/master/words_alpha.txt**
