@@ -1,18 +1,20 @@
 # WordPrediction-Tries
 A simple word predictor using tries.
 
-To run:
+**RUN**
 
-$make
+`make`
 
-$./app.out
+`./app.out`
+
+**NCURSES**
 
 ncurses is required to run this.
 
 Install ncurses:
 
-$sudo apt-get install libncurses-dev
+`sudo apt-get install libncurses-dev`
 
-Known issues:
+**Known issues**
 
 Using the mouse generates random characters in the window
