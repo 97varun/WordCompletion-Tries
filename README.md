@@ -1,5 +1,5 @@
-# WordPrediction-Tries
-A simple word predictor using tries.
+# WordCompletion-Tries
+A simple word completion program using tries.
 
 **RUN**
 
