@@ -10,7 +10,7 @@ using namespace std;
 
 const int kb = 127;	// backspace key
 
-class wordPredictor {
+class wordCompletion {
 	string input;
 
 	vector<string> loadWords() {
@@ -41,7 +41,7 @@ class wordPredictor {
 		return T;
 	}
 public:
-	wordPredictor() {
+	wordCompletion() {
 		input = "";
 	}
 
@@ -94,7 +94,7 @@ public:
 
 int main() {
 
-	wordPredictor app;
+	wordCompletion app;
 
 	app.run();
 
